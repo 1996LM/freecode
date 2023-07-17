@@ -1,2 +1,2 @@
 ¡HOLA MUNDO!
-este es un curso de freedcodecamp
+este es un curso de java-script
