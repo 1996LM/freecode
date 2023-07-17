@@ -1,2 +1,3 @@
 ¡HOLA MUNDO!
 este es un curso de java-script
+estoy aprendiendo git
